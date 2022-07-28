@@ -78,3 +78,7 @@ SYNTAX:
                 
         to import a class to a new file: 
             from *file name* import *class name* 
+
+
+        INHERITANCE -> inherit functionality of another class funct in a new class funct 
+            class *name*(*other class name to inherit*):
