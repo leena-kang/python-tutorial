@@ -77,6 +77,4 @@ SYNTAX:
                 ...
                 
         to import a class to a new file: 
-            from *file name* import *class name*
-
-    testing 
+            from *file name* import *class name* 
